@@ -24,7 +24,7 @@
 
 ---
 
-## 🎉 Finance Tracker - Live on HTTPS! - slightly slow due to host being single core server in aws USA - its hosting posgres(docker) as well as server on single thread
+## 🎉 Finance Tracker - Live!
 
 **🚀 [http://20.193.255.43](http://20.193.255.43)**
 
@@ -608,6 +608,8 @@ npx prisma migrate dev --name your_migration_name
 ---
 
 
+
+---
 
 ## 👤 Author - Priyanshu Gupta
 
