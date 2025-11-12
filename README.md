@@ -17,9 +17,6 @@
 
 ---
 
-# Demo Video
-
-[Watch the demo video](https://www.loom.com/share/1c7422e9c422445489b6d98a81c777ce?sid=ce802a4c-cbab-4db7-8967-c7cf178bbe7b)
 
 
 ---
